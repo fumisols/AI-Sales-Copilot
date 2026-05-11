@@ -7,7 +7,7 @@ This is an AI Sales Agent built to help sales reps prepare for calls better by g
 
 - 10 minutes before a sales all, the salesperson opens the the agents URL and checks their calendar to see who they are about to talk to
 
-- They provide the company URL and Linkedin profile of the prospect on the ai agent and generate the pre-call report to read and prepare the strategy needed
+- They provide the company URL and Linkedin profile of the prospect on the ai agent and generate the pre-call report to read and prepare the strategy needed to close the propsect based on their information gathered.
 
 **SOFTWARE**: 
 
